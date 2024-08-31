@@ -4,6 +4,7 @@
     <string name="txt_main_text_products">Produtos</string>
     <string name="error">Ocorreu um erro. Tente novamente.</string>
     <string name="logo">Logo</string>
-    <string name="digio_cash">digio Cash</string>
+    <string name="digio_cash">digio cash</string>
     <string name="digio_cash_banner">Digio Cash banner</string>
+    <string name="try_again">Tentar novamente</string>
 </resources>
